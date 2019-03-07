@@ -37,6 +37,10 @@
 - IID: instructor identification number
 - primary_instuctor: name of the primary instructor of the course
 
+##COURSE_TITLES
+- course_id: course title identification number
+- course_title: the name of the course
+
 
 ##LOCATION
 - location_name: building and room
